@@ -20,8 +20,4 @@ The goal of this project is to predict whether a tumor is **benign or malignant*
 
 ## Project Files  
 - `breast_cancer_classification.ipynb`: Jupyter notebook with full code.  
-  
-## Requirements
-- pandas
-- scikit-learn
-- matplotlib
+- `requirements.txt`: Python dependencies.  
