@@ -19,13 +19,9 @@ The goal of this project is to predict whether a tumor is **benign or malignant*
 - **Next steps:** explore Random Forests, feature importance, and SHAP for interpretability.  
 
 ## Project Files  
-- `breast_cancer_classification.ipynb`: Jupyter notebook with full code.  
+- `breast_cancer_classification.ipynb`: Jupyter notebook with full code.
+- requirements.txt
   
-## Requirements
-- pandas
-- scikit-learn
-- matplotlib
-
 ## 日本語要約  
 このプロジェクトは、UCI公開データセット「Breast Cancer Wisconsin (Diagnostic)」を用いて、腫瘍が良性か悪性かを予測するロジスティック回帰モデルを構築しました。  
 特徴量30個を正規化し、ロジスティック回帰と主成分分析(PCA)を適用しました。  
