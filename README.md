@@ -25,3 +25,9 @@ The goal of this project is to predict whether a tumor is **benign or malignant*
 - pandas
 - scikit-learn
 - matplotlib
+
+## 日本語要約  
+このプロジェクトは、UCI公開データセット「Breast Cancer Wisconsin (Diagnostic)」を用いて、腫瘍が良性か悪性かを予測するロジスティック回帰モデルを構築しました。  
+特徴量30個を正規化し、ロジスティック回帰と主成分分析(PCA)を適用しました。  
+結果として、全特徴量を使ったモデルは約96%の精度を達成しました。  
+次のステップとしては、ランダムフォレストなど非線形モデルや特徴量重要度の分析を検討しています。 
